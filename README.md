@@ -19,23 +19,23 @@ Calculator which perform functions of Addition, Multiplication, Division, Subtra
 <p><b> Every function has two parameter of integer type except Average function has three parameters of integer type. There is ranges are define for every variable for the function, and these ranges are define as: </b></p>
 <ol>
  <li>
-Add () Function: 
+  <h3>Add () Function:</h3> 
 Variable number: 1 – 50 
   Variable number2: 51 – 100 </li>
 
-<li>Sub() Function: 
+<li> <h3>Sub() Function: </h3>
 Variable number: 51 – 100 
 Variable number2: 1 – 50 </li>
 
-<li>mul() Function: 
+<li><h3>mul() Function: </h3>
 Variable number: 1 – 100 
 Variable number2: 101 – 200 </li>
 
-<li>div() Function: 
+<li><h3>div() Function: </h3>
 Variable number: 30 – 50 
 Variable number2: 1 – 29 </li>
 
-<li>Average() Function: 
+<li><h3>Average() Function:</h3> 
 Variable number1: 1 – 100 
 Variable number2: 101– 200 
 Variable number3: 201- 300</li>
